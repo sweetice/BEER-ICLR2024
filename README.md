@@ -52,5 +52,5 @@ If we run BEER code, we can see logs that look like:
   1%|          | 10037/1000000 [00:15<3:32:11, 77.76it/s]---------------------------------------
 Current Timesteps: 10000, Algo: BEER, Domain: humanoid, Task: stand, seed: 0, Evaluation over 10 episodes: 5.235
   2%|▏         | 19849/1000000 [00:19<05:23, 100.42it/s]---------------------------------------
-Current Timesteps: 20000, Algo: BEER, Domain: humanoid, Task: stand, seed: 0, Evaluation over 10 episodes: 5.235
+Current Timesteps: 20000, Algo: BEER, Domain: humanoid, Task: stand, seed: 0, Evaluation over 10 episodes: 10.235
 ```
